@@ -2,7 +2,7 @@ Source: libcflie
 Section: devel
 Priority: optional
 Maintainer: Jan Winkler <jan.winkler.84@gmail.com>
-Build-Depends: debhelper (>= 7.0.0), cmake (>= 2.6), libusb-1.0-0, libusb-dev
+Build-Depends: debhelper (>= 7.0.0), cmake (>= 2.6), libusb-1.0-0, libusb-1.0-0-dev, libusb-dev
 Standards-Version: 3.9.2
 Homepage: http://fairlight1337.github.io/libcflie
 Vcs-Git: https://github.com/fairlight1337/libcflie
